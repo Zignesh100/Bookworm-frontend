@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.custom-tabs .css-1aquho2-MuiTabs-indicator {
+  background-color: black;
+  height: 0.6px;
+  font-size: 20px;
+}
+.custom-tabss .MuiTabs-indicator {
+  background-color: black;
+  height: 0.6px;
+  font-size: 20px;
+}
